@@ -8,4 +8,5 @@ This repo contains resources we would like to share from our meetup on Agile Thr
 2. S.T.R.I.D.E cue cards for Agile Threat Modelling Workshop
 
 Best,
+
 Katharina, Jennifer & Michael
